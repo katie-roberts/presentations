@@ -8,5 +8,7 @@ The BBC have been using Microservice architectures successfully for a number of 
 ## Questions i want to answer in this talk
 
 Why did the BBC move to using microservices architectures?
+
 How did the K&L move to using microservice architectures?
+
 What are the pitfalls we have come across, and how have we managed to over come them?
