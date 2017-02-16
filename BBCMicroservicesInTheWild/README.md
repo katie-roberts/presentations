@@ -1,10 +1,8 @@
-# Practical Applications of Microservice Architectures at the BBC
+# BBC - Microservices in the wild
 
 ## Abstract
 
-Microservices archetectures seem to be an attractive proposition, but can they be successfully applied in practice?  
-
-The BBC have been using Microservice architectures successfully for a number of years across a number of different projects. 
+The BBC have been using Microservice architectures successfully for a number of years, but how do they put the theory of microservice architectures into practice?  This talk will go through the practical applications of microservices at the BBC, and how we moved from monolythic architectures to the microservice model.  It will also highlight some of the pitfalls and how the BBC have worked to get around them. 
 
 
 ### Questions I want to answer in this talk
