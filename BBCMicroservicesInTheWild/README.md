@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The BBC have been using Microservice architectures successfully for a number of years, but how do they put the theory of microservice architectures into practice?  This talk will go through the practical applications of microservices at the BBC, and how we moved from monolythic architectures to the microservice model.  It will also highlight some of the pitfalls and how the BBC have worked to get around them. 
+A few years ago the BBC realised they were to continue to be able to a major player in the digital entertainment space they were going to need to evolve the ways in which it worked. Moving from single monolithic codebases, which struggled scale to the large numbers of users that we were aiming to attract, to a more microserive based architecture which allow multiple independant teams to develop faster, leaner code, has been an iteresting process.  Scaling up of our audience, infrastructure and number of developers has been a challenge, and but adopting these ways of working has allowed us to create a more unified experience for our users.  The benefits of Microservices are well  documented but I will also discuss some of the pitfalls with this way of working, and how the BBC have worked around them.
 
 
 ### Questions I want to answer in this talk
@@ -22,6 +22,8 @@ Worth mentioning the team strucutres and sizes  - so we have multiple small team
 How nitro and Orb / orbit are used by pages.  How different teams can look after these
 
 How sometimes we have "must update now" to latest versions (move from Orb to Orbit) - and yes this can be an inconvenience, however, we get a lot of benefits.
+
+Problem of communication - ensuring that we don't reinvent the wheel.
 
 Specialists working on specific areas of the sites - allows developers more scope to work on / improve the areas which they are working on.
 
