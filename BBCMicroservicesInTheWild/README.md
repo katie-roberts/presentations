@@ -2,7 +2,7 @@
 
 ## Abstract
 
-A few years ago the BBC realised they were to continue to be able to a major player in the digital entertainment space they were going to need to evolve the ways in which it worked. Moving from single monolithic codebases, which struggled scale to the large numbers of users that we were aiming to attract, to a more microserive based architecture which allow multiple independent teams to develop faster, leaner code, has been an interesting process.   Adopting these ways of working has allowed us to create a more unified experience for our users whilst giving us the capacity to allow more developers working towards common goals. The benefits of microservices are well documented but I will also discuss some of the pitfalls with this way of working, and how the BBC have worked around them
+A few years ago the BBC realised if they were to continue to be able to a major player in the digital entertainment space they were going to need to evolve the ways in which they worked. Moving from single monolithic codebases, which struggled scale to the large numbers of users that we were aiming to attract, to a more microserice based architecture which allow multiple independent teams to develop faster, leaner code, has been an interesting process.   Adopting these ways of working has allowed us to create a more unified experience for our users whilst giving us the capacity to allow more developers working towards common goals. The benefits of microservices are well documented but I will also discuss some of the pitfalls with this way of working, and how the BBC have worked around them.
 
 
 ### Questions I want to answer in this talk
