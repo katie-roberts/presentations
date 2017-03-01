@@ -1,0 +1,50 @@
+# iPlayer microservice based architecture
+
+https://skillsmatter.com/skillscasts/8808-moving-bbc-iplayer-to-a-micro-services-architecture
+
+10,000 media items on line published in one week
+
+suport over 1000 different devices
+
+2012 - iPlayer issues > post olympics 
+
+system didn't have enough capacity to do what we wanted to do
+
+fixed capacity
+
+devices required their own formats
+
+perl based monolith > under some circumstances - freeze solid and needed manually rebooting - hugely difficult process
+
+start small - find a point of pain - split out the functionality to microservice
+
+^^ i have examples of this in Bitesize
+
+How we need to monitor our microservices - how are we doing this and how are we making this work.
+Immutable AMIs system
+
+iplayer team - 34 developers - 30 releasese to live per week
+
+with great power comes great responsibility
+60% of time writing tests - BDD TDD 
+
+Fire clown - 500 messages
+
+small change > causes issue > roll back to previous version 
+
+root cause of issue > such small changes mean that it is easy to fix the issue - even if it seems totally unrelated (iPlayer JDK update version
+that crashed after parsing 10000 lines of xml)
+
+Microservice architecture allows you to merge and reuse content
+
+*Thing that haven't work for iPlayer*
+moving at speed
+Do not put loops in microservices architectures !
+need to think about if the design of the architecture is still fitting when things change
+naming things
+size of services < if services too big then harder to change
+
+
+# monoliths and microservices
+http://www.bbc.co.uk/academy/technology/article/art20150108152505124
+
