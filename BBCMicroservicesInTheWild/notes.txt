@@ -54,3 +54,7 @@ small changes required full regression testing
 
 allowed to use different technologies for different services - if that is what you want to do
 
+
+Stuff to take away - continuous delivery and microservices - how these go hand in hand 
+
+
