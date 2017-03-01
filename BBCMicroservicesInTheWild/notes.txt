@@ -48,3 +48,9 @@ size of services < if services too big then harder to change
 # monoliths and microservices
 http://www.bbc.co.uk/academy/technology/article/art20150108152505124
 
+Monoliths hard to maintain - single element deployment
+interactions within the application
+small changes required full regression testing
+
+allowed to use different technologies for different services - if that is what you want to do
+
