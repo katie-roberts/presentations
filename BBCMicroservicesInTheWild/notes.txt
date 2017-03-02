@@ -57,4 +57,13 @@ allowed to use different technologies for different services - if that is what y
 
 Stuff to take away - continuous delivery and microservices - how these go hand in hand 
 
+2012 service oriented architecture 
+equasion chef < always on the cloud
+BAM < always on the cloud
+LDP > started on forge moved to cloud
+know/learn asset < still on forge but using stangler pattern to get rid of it
+
+serverless architecture to evlove the web 
+
+cloud first product
 
