@@ -38,9 +38,14 @@ Expect an increase in users as a result of this change in functionality.
 * it is only 1 year old
 * images for the site are stored in a cloud account (S3 buckets)
 
+![Actual Architecture (incomplete)](https://github.com/katie-roberts/presentations/blob/master/tamingUnicornsWithTechnology/architectures/realArchitecture.png)
+
 Need to know how to get true requirements out of the client - and make them understand what is being asked for.
 
 ### suggested solutions
 
 Could the sign in be done via partner system - eg Google?
 Does the audience really want to leave feedback on items on sale? Could this be stars rather than words?  (less requirement for moderation)
+
+
+![Suggested solution - starting to implemet the strangler pattern](https://github.com/katie-roberts/presentations/blob/master/tamingUnicornsWithTechnology/architectures/suggested%20solution.png)
