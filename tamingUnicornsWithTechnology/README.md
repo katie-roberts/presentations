@@ -16,6 +16,8 @@ Limited time frame - Big event - Auctioning off something really importand that 
 
 Expect an increase in users as a result of this change in functionality.
 
+![Client Described current architecture](https://github.com/katie-roberts/presentations/blob/master/tamingUnicornsWithTechnology/architectures/clientDescribed.png)
+
 ### What the client forgot to mention
 
 * Database has not been updated in a long while - old but functional mySQL
