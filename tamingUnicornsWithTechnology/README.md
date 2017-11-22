@@ -2,6 +2,9 @@
 
 The slides have a large amout of animation in them.  They can be found at https://drive.google.com/file/d/1E9utOD6JhJvWT00lmLA3luGM79xIjN9R/view
 
+### other tools used in workshop
+funretro.github.io/distributed  - used to gather questions for the client
+
 ## Client Information
 
 ### The Brief
@@ -12,7 +15,7 @@ Current application as presented by the client to the development team.
 
 Requirement is to create a similar app but one with a social element to the page to allow users to leave feedback on the items on auction to try to create a "buzz" around the auction.  They also want to be able to capture their users data so that they can contact them with other auctions that will be of interest to them.
 
-Limited time frame - Big event - Auctioning off something really importand that (must be to marked in the next 3 months) - marketing already been booked in 
+Limited time frame - Big event - Auctioning off something really importand that (work must be completed in the next 3 months) - marketing already been booked in 
 
 Expect an increase in users as a result of this change in functionality.
 
