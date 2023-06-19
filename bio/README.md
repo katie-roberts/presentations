@@ -1,5 +1,9 @@
 # Katie Stockton Roberts bio
 
+Katie is the Head of Engineering at NearForm where she leads over 200 fully remote engineers across mobile, Dev, Data, DevOps, Test and Engineering Management across 27 different countries.  Prior to joining NearForm she worked as a Software Engineering Manager at the BBC where she lead the modernisation of the BBC Search Platform, and supported the migration of BBC Homepage, Bitesize and BBC Food sites to the cloud.  In her spare time she plays guitar and bass, and makes lots of pots in her mini ceramics studio.
+
+-----
+
 Katie is Head of Engineering for NearForm. She has been focusing on building teams in remote environments and working occasionally on migrating legacy systems to microservies and the cloud. 
 
 She has worked at the BBC for the 9 years, during which time she has worked on projects including the Connected TV Sport App for the 2012 Olympics, BBC Food, the BBC Bitesize App, Terrific Scientific and helped to redevelop <a href="http://www.bbc.com/bitesize">BBC Bitesize</a>.  In her current role she manages the teams who are responsible for Search and Navigation across the whole of the BBC estate (including TV, Mobile and Voice interaction devices).  
