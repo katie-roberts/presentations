@@ -1,5 +1,9 @@
 # Katie Stockton Roberts bio
 
+Katie works as an Account Principal at NearForm, providing Technical Direction to client teams.  She previously held the role of Head of Engineering where grew the engineering capability from 80 to over 200 fully remote engineers across mobile, Dev, Data, DevOps, Test and Engineering Management across 27 different countries. Prior to joining NearForm she worked as a Software Engineering Manager at the BBC where she lead the modernisation of the BBC Search Platform, and supported the migration of BBC Homepage, Bitesize and BBC Food sites to the cloud. In her spare time she plays guitar and bass, and makes lots of pots in her mini ceramics studio (which is actually a bit of space on top of the washing machine!).
+
+----
+
 Katie is the Head of Engineering at NearForm where she leads over 200 fully remote engineers across mobile, Dev, Data, DevOps, Test and Engineering Management across 27 different countries.  Prior to joining NearForm she worked as a Software Engineering Manager at the BBC where she lead the modernisation of the BBC Search Platform, and supported the migration of BBC Homepage, Bitesize and BBC Food sites to the cloud.  In her spare time she plays guitar and bass, and makes lots of pots in her mini ceramics studio.
 
 -----
