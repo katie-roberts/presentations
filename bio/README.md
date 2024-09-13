@@ -2,7 +2,8 @@
 
 Katie has been working in Software Development for over 20 years, and is the Account Principal for Nearform, a remote first consultancy who build digital products that make the world better.  She manages a number of fully remote projects and teams, working in both the Technical and Delivery Management space. During her four years with Nearform, she has held a number of roles including Head of Engineering where grew the Engineering capability from 80 to over 200 fully remote engineers across mobile, Dev, Data, DevOps, Test and Engineering Management across 27 different countries, developing career paths, role expectations and creating guidance for best practices for managers working with remote teams.
 
-Prior to joining NearForm she worked as a Software Engineering Manager at the BBC where she led the modernisation of the BBC Search Platform, and supported the migration of BBC Homepage, Bitesize and BBC Food sites to cloud based services in AWS. In her spare time she plays guitar and bass, and makes pottery pots and fabric jackets.
+Prior to joining Nearform, she worked as a Software Engineering manager at the BBC where she led the modernisation of the BBC Search Platfrorm, and managed the migration of the BBC Homepage, Bitesize and BBC Food sites to cloud based services.  In her spare time she plays guitar and bass, and throws pots.
+
 ----
 
 
